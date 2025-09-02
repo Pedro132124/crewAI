@@ -1,4 +1,4 @@
-## CrewAI Security Vulnerability Reporting Policy
+## CrewAI Security + shif Vulnerability Reporting Policy
 
 CrewAI prioritizes the security of our software products, services, and GitHub repositories. To promptly address vulnerabilities, follow these steps for reporting security issues:
 
